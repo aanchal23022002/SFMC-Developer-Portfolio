@@ -1,0 +1,4 @@
+﻿CustomerID,FirstName,EmailAddress,RegistrationDate,MarketingConsent
+101,Priya,priya@example.com,11/12/2026,Yes
+102,Rahul,rahul@example.com,11/12/2026,No
+103,Sneha,sneha@example.com,11/11/2026,Yes
